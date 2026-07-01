@@ -19,7 +19,9 @@ Open Terminal Navigate to the Download Folder cd /Downloads
 
 Copy and Paste Command below to insall:
 
+
 flatpak install org.mapdrive.MapDrive.flatpak
+
 
 or sudo flatpak install org.mapdrive.MapDrive.flatpak
 
