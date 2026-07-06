@@ -27,4 +27,4 @@ or sudo flatpak install org.mapdrive.MapDrive.flatpak
 
 Example
 
-![image alt](https://github.com/TechMade-EZ/Map-Network-Drive-Linux/blob/main/input.png?raw=true)
+![image alt](https://github.com/TechMade-EZ/Map-Network-Drive-Linux/blob/4ad802887f6eeb8b997208963d0149561b1773a2/app%20screed%20b.png?raw=true)
